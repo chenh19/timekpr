@@ -9,5 +9,5 @@
 
 - Connect to internet and execute the below command in terminal:
 ```
-https://raw.githubusercontent.com/chenh19/timekpr/refs/heads/main/timekpr.sh
+bash <(curl -fsSL https://raw.githubusercontent.com/chenh19/timekpr/refs/heads/main/timekpr.sh)
 ```
