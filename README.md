@@ -3,7 +3,7 @@
 
 ## Introduction
 
-- This tool is intended for easy deployment of [Timekpr-nExT](https://mjasnik.gitlab.io/timekpr-next/) for parent control on linux.
+- This tool is intended for easy deployment of [Timekpr-nExT](https://mjasnik.gitlab.io/timekpr-next/) for parent control on Linux.
 
 ## How to setup
 
