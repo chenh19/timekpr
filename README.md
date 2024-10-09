@@ -1,4 +1,4 @@
-# Timekpr-nExT
+# Timekpr-nExT deployment
 *Current version: v1.0.0*  
 
 ## Introduction
